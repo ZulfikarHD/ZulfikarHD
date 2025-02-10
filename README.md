@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm **Zulfikar Hidayatullah**
 ---
 
-### 🚀 Web Developer | Software Architect
+### 🚀 Web Developer
 
 Passionate about building scalable, efficient, and user-friendly web applications, I have over **6 years of experience** in web development. I love transforming ideas into powerful solutions, continuously learning, and embracing new technologies to stay ahead in the ever-evolving tech landscape.
 
